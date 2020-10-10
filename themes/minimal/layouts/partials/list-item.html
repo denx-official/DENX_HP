@@ -17,6 +17,7 @@
     {{ with .Description }} {{ $.Scratch.Set "subheader" . }} {{ end }}
 
     <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
+    <a href="{{ .Scratch.Get "link" }}"><img class="banner" src="{{ if .Params.image }}{{ .Params.image }}{{ else }}/image/banner/no_image.jpg{{ end }}"></a>
     <h5>{{ $.Scratch.Get "subheader" }}</h5>
     {{ partial "tags" . }}
 

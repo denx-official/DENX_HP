@@ -1,0 +1,8 @@
+img.banner {
+    width: 600px;
+    height: 100px;
+    object-fit: cover;
+}
+img.banner:hover {
+    opacity: 0.8;
+}
