@@ -1,0 +1,44 @@
+baseURL = "http://example.com/"
+languageCode = "ja"
+title = "電気情報研究会 DENX"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+pluralizeListTitles = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+    author = "denx"
+    description = "同志社大学 電気情報研究会"
+    githubUsername = "#"
+    accent = "#FF9D00"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Sawarabi+Gothic" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    custom_css = ["css/navbar.css", "css/heading.css", "css/send-button.css"]
+
+[[menu.main]]
+#     url = "/"
+#     name = "Home"
+#     weight = 1
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "https://github.com/denx-jp"
+    name = "github"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://twitter.com/DENX467"
+    name = "twitter"
+    weight = 2

@@ -1,0 +1,16 @@
+.send-button {
+    display: inline-block;
+    border: 1px solid #404040;
+    border-radius: 2px;
+    background-color: white;
+    padding: .2em 1em;
+    color: #404040;
+    line-height: 24px;
+    text-decoration: none;
+    margin: 0 1px;
+}
+
+.send-button:hover {
+    border: 1px solid var(--accent);
+    color: var(--accent);
+}
