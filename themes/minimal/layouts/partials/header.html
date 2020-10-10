@@ -4,7 +4,19 @@
         {{ partial "head-open" . }}
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ .Title }}</title>
+        <title>
+            {{ if eq .Title $.Site.Title }}
+                {{ .Title }}
+            {{ else if eq .Title "About"}}
+                DENXについて - {{ $.Site.Title }}
+            {{ else if eq .Title "Departments"}}
+                部門 - {{ $.Site.Title }}
+            {{ else if eq .Title "Products"}}
+                制作物 - {{ $.Site.Title }}
+            {{ else }}
+                {{ .Title }} - {{ $.Site.Title }}
+            {{ end }}
+        </title>
         {{ if .Site.Params.favicon }}
             <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
         {{ end }}
