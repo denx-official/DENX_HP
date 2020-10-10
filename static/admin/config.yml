@@ -4,3 +4,37 @@ backend:
 
 media_folder: "static/image"
 public_folder: "/public"
+
+collections:
+  - label: "About" # 管理画面のサイドバーで使う
+    name: "about" # 管理画面のパスで使う　例：/admin/collections/blog
+    folder: "content/about" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    create: true # 新しいページを作ることを許可する
+    slug: "{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
+    fields: # ページ作成画面で使う。Front Matterの値を書く
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "date", widget: "datetime"}
+      - {label: "サムネイル画像", name: "image", widget: "image"}
+      - {label: "本文", name: "body", widget: "markdown"}
+  
+  - label: "Departments" # 管理画面のサイドバーで使う
+    name: "departments" # 管理画面のパスで使う　例：/admin/collections/blog
+    folder: "content/departments" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    create: true # 新しいページを作ることを許可する
+    slug: "{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
+    fields: # ページ作成画面で使う。Front Matterの値を書く
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "date", widget: "datetime"}
+      - {label: "サムネイル画像", name: "image", widget: "image"}
+      - {label: "本文", name: "body", widget: "markdown"}
+  
+  - label: "Products" # 管理画面のサイドバーで使う
+    name: "producs" # 管理画面のパスで使う　例：/admin/collections/blog
+    folder: "content/products" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    create: true # 新しいページを作ることを許可する
+    slug: "{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
+    fields: # ページ作成画面で使う。Front Matterの値を書く
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "公開日", name: "date", widget: "datetime"}
+      - {label: "サムネイル画像", name: "image", widget: "image"}
+      - {label: "本文", name: "body", widget: "markdown"}
