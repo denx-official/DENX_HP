@@ -1,0 +1,6 @@
+backend:
+  name: github
+  repo: denx-jp/DENX_HP_V2_DEMO
+
+media_folder: "static/image"
+public_folder: "/public"
