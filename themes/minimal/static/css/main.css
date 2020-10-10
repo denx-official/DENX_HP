@@ -32,7 +32,7 @@ img {
 }
 
 .intro > h2 {
-    color: #757575;
+    color: #212121;
     font-size: 3vmin;
 }
 
@@ -40,6 +40,7 @@ img {
 
 .content {
     padding-top: 20px;
+    font-size: 1.2em;
 }
 
 /* Profile picture */
@@ -93,7 +94,7 @@ a:hover {
 /* Navigation icons */
 
 .navbar-icon {
-    font-size: 125%;
+    font-size: 1.4em;
     display: inline-block !important;
 }
 
