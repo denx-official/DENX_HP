@@ -1,5 +1,7 @@
 ---
 title: 会員
+date: 2020-01-15
+draft: false
 ---
 
 ## 会員について

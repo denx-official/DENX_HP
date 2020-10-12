@@ -2,6 +2,7 @@
 title: 会則
 date: 2020-01-13
 image: "/image/banner/regulation.jpg"
+draft: false
 ---
 
 ## 会則について

@@ -1,7 +1,6 @@
 ---
 title: サンプル記事
 date: 2020-01-15
-image: "/image/banner/about_denx.jpg"
 draft: true
 ---
 
