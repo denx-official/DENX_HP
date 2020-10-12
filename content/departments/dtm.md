@@ -4,7 +4,7 @@ date: 2020-01-12
 draft: false
 ---
 
-![DAW](/image/dtm/cubase.jpg)  
+![DAW](/image/cubase.jpg)  
 
 ## DTMとは？
 <span style="color: red;">**DTM**</span> とは、DeskTop Musicの略称で、コンピュータを使って音楽制作することを指す言葉です。  
@@ -26,7 +26,7 @@ DENXのDTMerがどのような曲を作るのかをプレイリストにまと�
 DENXでは新入生向けに各分野の入門講座を春に行うのが恒例行事となっており、もちろんDTM班でも <span style="color: red;">**春のDTM入門講座**</span> を行います。  
 講座を通してDAWの扱い方や作編曲のコツ、音楽理論などを学ぶことができ、<u>音楽未経験者でも楽しく音楽制作ができる</u>よう全力でバックアップします。  
 
-![講座](/image/dtm/lecture.jpg "DTM入門講座の様子")  
+![講座](/image/lecture.jpg "DTM入門講座の様子")  
 (画像1: DTM入門講座の様子)  
 <br>
 
@@ -38,7 +38,7 @@ DENXでは新入生向けに各分野の入門講座を春に行うのが恒例�
 
 といったことも行います。  
 
-![CD制作](/image/dtm/cd_jacket.png "CD制作")  
+![CD制作](/image/cd_jacket.png "CD制作")  
 (画像2: 2018年にDTM班で作成したオリジナルCD、コミケにて頒布)  
 <br>
 
@@ -78,7 +78,7 @@ DENXにはDTM向けにチューニングされたPCが各校地1台ずつあり�
 - **iMac 2017 Retina 5K 27インチ** (今出川)
 - **Windows ゲーミングノートPC** (京田辺)
 
-![iMac](/image/dtm/iMac.jpg "iMac")  
+![iMac](/image/iMac.jpg "iMac")  
 (画像3: 今出川iMac)  
 
 どちらも快適にDTMをするのに十分なスペックを保有しています。  
@@ -88,7 +88,7 @@ DENXにはDTM向けにチューニングされたPCが各校地1台ずつあり�
 DTMをする上で必ず必要となる音楽制作ソフト <span style="color: red;">**DAW**</span> 。  
 もちろん、先ほどのPCにもインストールされており、今出川iMacには、**Logic Pro X** というMacユーザー御用達のDAW (先ほどのiMacの画像に映っていたもの)、京田辺ゲーミングノートPCには、**Reaper** というカスタマイズ性能抜群のDAWが導入されています。  
 
-![Reaper](/image/dtm/reaper.jpg "Repaer")  
+![Reaper](/image/reaper.jpg "Repaer")  
 (画像4: 京田辺ゲーミングノートPCのDAW_Reaper)  
 
 どちらも実際にプロが使用している優秀なDAWです。  
@@ -105,7 +105,7 @@ AUdio I/Fには、初心者向けのもの～レコーディングスタジオ�
 
 他にも、**Roland Quad-Capture UA-55** という入門向けのAudio I/Fが各校地に1台ずつあります。  
 
-![audio_if](/image/dtm/audio_if.jpg "Audio I/F")  
+![audio_if](/image/audio_if.jpg "Audio I/F")  
 (画像5: Audio I/F_上がUA-55、下がUCX)  
 <br>
 
@@ -116,7 +116,7 @@ DENXでは２つのモニターヘッドホンを所有しています。
 - **SONY MDR-900ST** (今出川)
 - **SONY MDR-7506** (京田辺)
 
-![900st](/image/dtm/900st.jpg "今出川_900st")  
+![900st](/image/900st.jpg "今出川_900st")  
 (画像6: SONY MDR-900ST)  
 
 どちらもモニターヘッドホンとして非常に有名な機種であり、多くのレコーディングスタジオでも使用されています。  
@@ -128,7 +128,7 @@ DENXでは２つのモニターヘッドホンを所有しています。
 <br>
 DENXには両校地とも二、三台ずつMIDIキーボードを完備しており、特に今出川では、 **NATIVE INSTRUMENTS KOMPLETE KONTROL A61** というピアノを弾く人の間で好評のMIDIキーボードを導入予定です。  
 
-![MIDIキーボード](/image/dtm/midikey.jpg "今出川_MIDIキーボード")  
+![MIDIキーボード](/image/midikey.jpg "今出川_MIDIキーボード")  
 (画像7: 今出川のMIDIキーボード)  
 <br>
 
@@ -139,6 +139,6 @@ DENXでは、DTM界隈で最強とうたわれる総合音源 **Komplete 12 Ulti
 その総容量はなんと<u>６００GB以上</u>と、まさに最強の名にふさわしいモンスター音源です。  
 この音源があれば、一通りのジャンルの音楽をこなすことができ、様々な曲を作りたいというDTMerのニーズを満たすことができます。  
 
-![komplete_12](/image/dtm/komplete_12.jpg "Komplete 12 Ultimate")  
+![komplete_12](/image/komplete_12.jpg "Komplete 12 Ultimate")  
 (画像8: Komplete 12 Ultimate)  
 (引用: [Bundles : Komplete 12 Ultimate | Komplete](https://www.native-instruments.com/jp/products/komplete/bundles/komplete-12-ultimate/))

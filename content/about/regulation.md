@@ -1,7 +1,7 @@
 ---
 title: 会則
 date: 2020-01-13
-image: "/image/banner/regulation.jpg"
+image: "/image/regulation.jpg"
 draft: false
 ---
 
