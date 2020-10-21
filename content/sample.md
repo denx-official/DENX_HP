@@ -118,7 +118,7 @@ Markdownでは、.mdファイル内でただ改行しただけでは、ページ
 
 ## 記事の書き方
 ### 1．Netlify CMSにログイン
-まず、[https://〇〇/admin](/admin/)にアクセス。  
+まず、[https://denx.netlify.app/admin](/admin/)にアクセス。  
 記事の書き方スライドにあるメアドとパスワードを使ってCMSにログインします。  
 <br>
 

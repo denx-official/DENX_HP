@@ -89,7 +89,7 @@ draft: false
 
 ### 運営者情報
 - 運営者：同志社大学 電気情報研究会
-- サイトURL：<a href="/" target="_blank" rel="noopener">URLをゲットしたら更新</a>
+- サイトURL：<a href="/">https://denx.netlify.app</a>
 - お問い合わせは、上記メールフォームよりお願いいたします
 
 <br>
