@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: denx-official/DENX_HP
   branch: master
 
 media_folder: "static/image"
