@@ -141,7 +141,7 @@ Markdownでは、.mdファイル内でただ改行しただけでは、ページ
 ### 3．記事の作成・修正
 新しく記事を書く場合は、左側のCollectionsからカテゴリを選択し、<span style="color: red; font-weight: bold;">"New Content"</span> をクリックすると、新しい記事が書けます。  
 <br>
-記事が書けたら、<b>下書きをオンにして</b>保存してください。  
+記事が書けたら、<b>下書きをオンにして</b>、右上から<b>Publish > Publish now</b>を選択して保存してください。  
 <br>
 
 ### 4．報告
