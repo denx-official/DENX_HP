@@ -23,7 +23,7 @@ pluralizeListTitles = false
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    custom_css = ["css/navbar.css", "css/heading.css", "css/send-button.css", "css.css"]
+    custom_css = ["css/navbar.css", "css/heading.css", "css/send-button.css", "css/banner.css"]
 
 [[menu.main]]
 #     url = "/"
@@ -40,6 +40,6 @@ pluralizeListTitles = false
     weight = 1
 
 [[menu.icon]]
-    url = "https://twitter.com/DENX467"
+    url = "https://twitter.com/DENX_JP"
     name = "twitter"
     weight = 2
