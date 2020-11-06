@@ -1,7 +1,7 @@
 ---
 title: DENXとは？
 date: 2020-01-15
-image: "/image/about_denx.jpg"
+image: /image/about_denx.jpg
 draft: false
 ---
 
@@ -14,7 +14,7 @@ DENXとは電気情報研究会の略で1963年に設立された同志社大学
 - 同志社大学京田辺校地（京田辺キャンパス）京田辺別館 233・234
 - 同志社大学今出川校地（新町キャンパス）学生会館（本館）412
 
-同志社大学に在学中の学生で当サークルに興味をお持ちの方は、<u>事前に<a href="https://twitter.com/DENX467" target="_blank" rel="noopener">Twitter</a>、または<a href="/contact/">メールフォーム</a>からアポイントメントを取った上で</u>お越しください。  
+同志社大学に在学中の学生で当サークルに興味をお持ちの方は、<u>事前に<a href="https://twitter.com/DENX_jp" target="_blank" rel="noopener">Twitter</a>、または<a href="/contact/">メールフォーム</a>からアポイントメントを取った上で</u>お越しください。  
 <br>
 
 ## 活動内容
