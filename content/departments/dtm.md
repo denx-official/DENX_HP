@@ -14,15 +14,6 @@ DTMでは、<span style="color: red;">**DAW**</span> (Digital Audio Workstation)
 <br>
 <br>
 
-## 作品紹介
-DENXのDTMerがどのような曲を作るのかをプレイリストにまとめました。  
-会員たちの個性豊かな楽曲をお楽しみください。  
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/695443327&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/denx-705848939" title="DENX" target="_blank" style="color: #cccccc; text-decoration: none;">DENX</a> · <a href="https://soundcloud.com/denx-705848939/yeqprsqysiw7" title="革故鼎新" target="_blank" style="color: #cccccc; text-decoration: none;">革故鼎新</a></div>
-<center><span style="color: gray">とりあえず先頭にあった曲を貼っています<br>本チャンでは曲を集めて、プレイリストを作って、それを貼ります</span></center>
-
-<br>
-
 ## 何をしているの？
 DENXでは新入生向けに各分野の入門講座を春に行うのが恒例行事となっており、もちろんDTM班でも <span style="color: red;">**春のDTM入門講座**</span> を行います。  
 講座を通してDAWの扱い方や作編曲のコツ、音楽理論などを学ぶことができ、<u>音楽未経験者でも楽しく音楽制作ができる</u>よう全力でバックアップします。  
@@ -46,12 +37,7 @@ DENXでは新入生向けに各分野の入門講座を春に行うのが恒例�
 またDTM班では、<u>他の班の会員と連携を取る</u>こともあります。  
 例えばある会員がゲームを作ると、**そのゲームのBGMや効果音作成の依頼** がDTM班に回ってくることがあります。  
 そこでは依頼内容を踏まえつつ、それぞれの個性を全力でぶつけるような曲に仕上がっています。  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BMO5kwg2Yxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-(映像1: 2017年に作成されたFPSゲームのタイトル画面)  
-<center><span style="color: gray">この動画はOBのツノさんのチャンネルから引っ張っています<br>実際に公開する際はその辺をどうするかについてちゃんと確認したい</span></center>
-
+<br>
 <br>
 
 ## 音楽未経験でも大丈夫？
