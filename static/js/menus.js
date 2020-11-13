@@ -6,8 +6,4 @@ if (window.matchMedia('(max-width: 768px)').matches) {
         var dom_obj_parent = dom_obj.parentNode;
         dom_obj_parent.removeChild(dom_obj);
     }
-} 
-
-// else if (window.matchMedia('(min-width:750px)').matches) {
-    //PC処理
-// }
+}
