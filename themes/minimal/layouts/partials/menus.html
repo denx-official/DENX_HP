@@ -1,11 +1,11 @@
 {{ if .Site.Menus.main }}
-    <ul class="nav navbar-nav">
+    <ul class="nav navbar-nav" id="menus">
         <li>
             <a href="/">Home</a>
         </li>
         <li>
-            <a href="/about/">DENXについて <span class="caret"></span></a>
-            <div>
+            <a href="/about/">DENXについて <span class="caret" id="caret1"></span></a>
+            <div id="about">
                 <ul>
                     {{ range after 1 (where .Site.Pages "Section" "about")}}
                         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
@@ -14,8 +14,8 @@
             </div>
         </li>
         <li>
-            <a href="/departments/">部門 <span class="caret"></span></a>
-            <div>
+            <a href="/departments/">部門 <span class="caret" id="caret2"></span></a>
+            <div id="departments">
                 <ul>
                     {{ range after 1 (where .Site.Pages "Section" "departments")}}
                         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
@@ -24,8 +24,8 @@
             </div>
         </li>
         <li>
-            <a href="/products/">制作物 <span class="caret"></span></a>
-            <div>
+            <a href="/products/">制作物 <span class="caret" id="caret3"></span></a>
+            <div id="products">
                 <ul>
                     {{ range after 1 (where .Site.Pages "Section" "products")}}
                         <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
