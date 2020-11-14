@@ -14,6 +14,7 @@ pluralizeListTitles = false
 [params]
     author = "denx"
     description = "同志社大学 電気情報研究会"
+    copyright = "同志社大学 電気情報研究会"
     favicon = "/image/icon.ico"
     githubUsername = "#"
     accent = "#FF9D00"
