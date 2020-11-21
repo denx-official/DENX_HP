@@ -18,3 +18,33 @@ draft: false
 |でんくすちゃん|2015|2015年に生まれました！ラズパイが好物のDENXマスコットです！| 
 
  
+
+<tabke>
+   <tr>
+      <th>名前</th>
+      <th>入会年度</th>
+      <th>自己紹介</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+
+
+
+
+
+
+</table>
