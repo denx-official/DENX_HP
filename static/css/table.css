@@ -1,0 +1,16 @@
+table {
+    width: 300px;
+    text-align: center;
+}
+
+table,th,td {
+    border: 1px solid #bbb;
+}
+
+td.namae {
+    width: 140px;
+}
+
+td.koumoku {
+    width: 90px;
+}

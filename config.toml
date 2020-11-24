@@ -24,7 +24,7 @@ pluralizeListTitles = false
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-    custom_css = ["css/navbar.css", "css/heading.css", "css/send-button.css", "css/banner.css"]
+    custom_css = ["css/navbar.css", "css/heading.css", "css/send-button.css", "css/banner.css", "css/table.css"]
     custom_js = ["js/menus.js"]
 
 [[menu.main]]

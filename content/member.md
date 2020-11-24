@@ -9,11 +9,102 @@ draft: false
 会員・旧会員の中でホームページに掲載することを了承してくださった方のみ記載しております。  
 <br>
 
-|名 前|入 会 年 度  | 自 己 紹 介| リ ン ク|
-|:---|:---|:---|:---|
-|和奏(かなで)|2020|競技プログラミングと電子工作をしています| https://kanade-2001.hatenablog.com/|
-|ais  |2019|広く浅くいろんなことをしています。||
-|らむーね |2018|ゲーム制作とイラスト描きしてます。|https://www.pixiv.net/users/31489063|
-|zakio_10|2018|競技プログラミングと低レイヤに興味があります。| 
-|いっぺー|2017| |
-|でんくすちゃん|2015|2015年に生まれました！ラズパイが好物のDENXマスコットです！| 
+### 2020年度
+<table class="table">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">和奏(かなで)</td>
+		<td>自己紹介</td>
+		<td class="honbun">競技プログラミングと電子工作をしています</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://kanade-2001.hatenablog.com/" target="_blank" rel="noopener">和奏の雑記帳</a></td>
+	</tr>
+</table><br>
+
+### 2019年度
+<table class="table">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">ais</td>
+		<td>自己紹介</td>
+		<td class="honbun">広く浅くいろんなことをしています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
+</table><br>
+<br>
+
+### 2018年度
+<table class="table table-condensed">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">らむーね</td>
+		<td>自己紹介</td>
+		<td class="honbun">ゲーム制作とイラスト描きしてます。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://www.pixiv.net/users/31489063" target="_blank" rel="noopener">らむーね - pixiv</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">zakio_10</td>
+		<td>自己紹介</td>
+		<td class="honbun">競技プログラミングと低レイヤに興味があります。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
+</table><br>
+
+### 2017年度
+<table class="table table-condensed">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">いっぺー</td>
+		<td>自己紹介</td>
+		<td class="honbun">DTMと音楽関連ソフトの開発で最強を目指しています<br>（目指せない）</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://ippee-music.com/" target="_blank" rel="noopener">オルタナハアト。 | ロックと向き合うための備忘録</a></td>
+	</tr>
+</table><br>
+
+### 2015年度
+<table class="table table-condensed">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">でんくすちゃん</td>
+		<td>自己紹介</td>
+		<td class="honbun">2015年に生まれました！<br>ラズパイが好物のDENXマスコットです！</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
+</table><br>
