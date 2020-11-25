@@ -25,7 +25,7 @@ DENXでは主に<span style="color:red">**Unity**</span>や**<span style="color:
 
 ### Unity
 
-DENXで最も使用されているゲームエンジンです。Unityはプログラム言語に<span style="color:red">**C#**</span>を用います。<br>Unityはチュートリアルや日本語での記事が多く初心者におすすめです。<br>また、Unityは軽いため性能の低いパソコンでも割とサクサク動きます。<br>
+DENXで最も使用されているゲームエンジンです。Unityはプログラム言語に<span style="color:red"><b>C#</b></span>を用います。<br>Unityはチュートリアルや日本語での記事が多く初心者におすすめです。<br>また、Unityは軽いため性能の低いパソコンでも割とサクサク動きます。<br>
 
 ![](/image/unknown.png)
 (Unityのエディター画面)<br>
