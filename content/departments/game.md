@@ -1,6 +1,6 @@
 ---
 title: ゲーム制作
-date: 2020-01-14
+date: 2020-11-25T21:00:01.073Z
 image: /image/game.jpg
 draft: false
 ---
