@@ -52,6 +52,15 @@ draft: false
 		<td>リンク</td>
 		<td>-</td>
 	</tr>
+	<tr>
+		<td class="namae" rowspan="2">たると</td>
+		<td>自己紹介</td>
+		<td class="honbun">いろいろなことに手を出して何も身につかない人をしています．</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
 </table><br>
 <br>
 
