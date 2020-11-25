@@ -1,7 +1,7 @@
 ---
 title: プログラミング
 date: 2020-11-02T12:29:58.945Z
-image: /image/no_image.jpg
+image: /image/prog.jpg
 draft: false
 ---
 ## プログラミングとは
