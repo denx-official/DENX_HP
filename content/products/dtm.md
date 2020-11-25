@@ -1,7 +1,7 @@
 ---
 title: DTM
 date: 2020-01-12
-image: /image/no_image.jpg
+image: /image/dtm.jpg
 draft: false
 ---
 
