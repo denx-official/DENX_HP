@@ -25,6 +25,15 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun"><a href="https://kanade-2001.hatenablog.com/" target="_blank" rel="noopener">和奏の雑記帳</a></td>
 	</tr>
+	<tr>
+		<td class="namae" rowspan="2">海月のななり</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストを主にいろいろしてます</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
 </table><br>
 
 ### 2019年度
@@ -69,6 +78,15 @@ draft: false
 	</tr>
 	<tr>
 		<td>リンク</td>
+		<td><a href="https://zakio-10.hatenablog.com/" target="_blank" rel="noopener">理系の気ままメモ</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">ry</td>
+		<td>自己紹介</td>
+		<td class="honbun">最近はよく日本や海外の機械学習系コンペティションに出ています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
 		<td>-</td>
 	</tr>
 </table><br>
@@ -88,6 +106,33 @@ draft: false
 	<tr>
 		<td>リンク</td>
 		<td class="honbun"><a href="https://ippee-music.com/" target="_blank" rel="noopener">オルタナハアト。 | ロックと向き合うための備忘録</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">ホンジョルノ</td>
+		<td>自己紹介</td>
+		<td class="honbun">絵とかCGをやったりやらなかったりしてます</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">おかきょー</td>
+		<td>自己紹介</td>
+		<td class="honbun">Web 開発がチョットできます</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">Laisa</td>
+		<td>自己紹介</td>
+		<td class="honbun">kawaii-絵 を描いています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</td>
 	</tr>
 </table><br>
 
