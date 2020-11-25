@@ -1,7 +1,7 @@
 ---
 title: プログラミング
-date: 2020-01-15
-image: /image/no_image.jpg
+date: 2020-11-25T20:59:38.714Z
+image: /image/prog.jpg
 draft: false
 ---
 
