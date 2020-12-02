@@ -61,6 +61,15 @@ draft: false
 		<td>リンク</td>
 		<td>-</td>
 	</tr>
+	<tr>
+		<td class="namae" rowspan="2">トリナー</td>
+		<td>自己紹介</td>
+		<td class="honbun">プログラミングをしています。Webバックエンドが主です。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
 </table><br>
 <br>
 
