@@ -1,0 +1,20 @@
+.illust-container {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+.illust-container > .illust-button {
+    border-radius: 8px;
+}
+
+.illust-container > .illust-button:hover {
+    opacity: 0.8;
+}
+
+.illust-button > img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
