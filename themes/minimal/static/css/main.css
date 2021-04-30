@@ -23,7 +23,12 @@ img {
 /* Homepage */
 
 .intro {
-    transform: translateY(22vh);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 56px - 48px);
 }
 
 .intro > h1 {
@@ -35,6 +40,25 @@ img {
     color: #212121;
     font-size: 3vmin;
 }
+
+.info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: end;
+    align-items: center;
+    padding: 10vh 0 20vh 0;
+}
+
+.table {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+    .news {
+        text-align: left;
+    }
 
 /* Page content */
 
