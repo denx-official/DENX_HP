@@ -6,9 +6,12 @@
         <img src="/image/logo.jpg">
         <h2><span>{{ markdownify .Site.Params.Description }}</span></h2>
         {{ with .Content }} <div class="homepage-content text-justify">{{ . }}</div> {{ end }}
+        <button class="down-arrow" onclick="scrollToMovie()">
+            <i class="fa fa-chevron-down fa-3x" aria-hidden="true"></i>
+        </button>
     </div>
 
-    <div class="movie">
+    <div class="movie" id="movie">
         <h2>新歓動画</h2>
         <iframe width="560" height="315" src="{{ .Site.Params.YouTubeLink }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -29,5 +32,7 @@
         </div>
     </div>
 </main>
+
+<script src="/js/scroll.js"></script>
 
 {{ partial "footer" . }}
