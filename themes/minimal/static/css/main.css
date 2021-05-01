@@ -41,24 +41,31 @@ img {
     font-size: 3vmin;
 }
 
-.info {
+.movie {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: end;
     align-items: center;
-    padding: 10vh 0 20vh 0;
+    padding: 10vh 0 10vh 0;
 }
 
-.table {
+.info {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
+    gap: 1rem;
 }
 
     .news {
         text-align: left;
+        overflow-y: scroll;
+        height: 50vh;
     }
+
+        .news li {
+            margin-bottom: 0.5rem;
+        }
 
 /* Page content */
 
