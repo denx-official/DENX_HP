@@ -26,7 +26,8 @@ pluralizeListTitles = false
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
     custom_css = ["css/navbar.css", "css/heading.css", "css/send-button.css", "css/banner.css", "css/table.css", "css/illust-layout.css"]
     custom_js = ["js/menus.js"]
-    
+
+    YouTubeLink = "https://www.youtube.com/embed/S1N913eKvoQ"
     news = ["2021/02/13: 2月総会", "2021/01/09: 1月総会", "2020/11/26: 同志社EVE 参加"]
 
 [[menu.main]]
