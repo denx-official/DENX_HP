@@ -9,6 +9,34 @@ draft: false
 会員・旧会員の中でホームページに掲載することを了承してくださった方のみ記載しております。  
 <br>
 
+### 2021年度
+<table class="table">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">いしろ</td>
+		<td>自己紹介</td>
+		<td class="honbun">プログラミング初心者です。東方二次創作とかしようと思います。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">Lk</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラスト、DTM制作します。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	
+</table><br>
+
 ### 2020年度
 <table class="table">
 	<tr>
@@ -34,6 +62,25 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>
+	<tr>
+		<td class="namae" rowspan="2">しろへび</td>
+		<td>自己紹介</td>
+		<td class="honbun">Unityとか使ってゲーム制作したい人。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">青木</td>
+		<td>自己紹介</td>
+		<td class="honbun">F#の勉強をしています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	
 </table><br>
 
 ### 2019年度
@@ -65,6 +112,24 @@ draft: false
 		<td class="namae" rowspan="2">トリナー</td>
 		<td>自己紹介</td>
 		<td class="honbun">プログラミングをしています。Webバックエンドが主です。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">すやっち</td>
+		<td>自己紹介</td>
+		<td class="honbun">自作キーボード、ゲーム制作など広く浅くいろいろなことをしています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">suzuki</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストを中心にいろんなことをしていきたいです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
