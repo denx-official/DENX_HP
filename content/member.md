@@ -63,10 +63,6 @@ draft: false
 		<td class="honbun">-</a></td>
 	</tr>
 	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</a></td>
-	</tr>
-	<tr>
 		<td class="namae" rowspan="2">しろへび</td>
 		<td>自己紹介</td>
 		<td class="honbun">Unityとか使ってゲーム制作したい人。</td>
