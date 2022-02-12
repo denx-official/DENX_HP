@@ -4,12 +4,13 @@ date: 2020-01-15
 image: /image/logo.jpg
 draft: false
 ---
-
 ## 会員について
-会員・旧会員の中でホームページに掲載することを了承してくださった方のみ記載しております。  
+
+会員・旧会員の中でホームページに掲載することを了承してくださった方のみ記載しております。\
 <br>
 
 ### 2021年度
+
 <table class="table">
 	<tr>
 		<td class="namae">名前</td>
@@ -38,6 +39,7 @@ draft: false
 </table><br>
 
 ### 2020年度
+
 <table class="table">
 	<tr>
 		<td class="namae">名前</td>
@@ -84,6 +86,7 @@ draft: false
 </table><br>
 
 ### 2019年度
+
 <table class="table">
 	<tr>
 		<td class="namae">名前</td>
@@ -139,6 +142,7 @@ draft: false
 <br>
 
 ### 2018年度
+
 <table class="table table-condensed">
 	<tr>
 		<td class="namae">名前</td>
@@ -175,6 +179,7 @@ draft: false
 </table><br>
 
 ### 2017年度
+
 <table class="table table-condensed">
 	<tr>
 		<td class="namae">名前</td>
@@ -188,7 +193,7 @@ draft: false
 	</tr>
 	<tr>
 		<td>リンク</td>
-		<td class="honbun"><a href="https://ippee-music.com/" target="_blank" rel="noopener">オルタナハアト。 | ロックと向き合うための備忘録</a></td>
+		<td class="honbun">-</td>
 	</tr>
 	<tr>
 		<td class="namae" rowspan="2">ホンジョルノ</td>
@@ -220,6 +225,7 @@ draft: false
 </table><br>
 
 ### 2015年度
+
 <table class="table table-condensed">
 	<tr>
 		<td class="namae">名前</td>
@@ -238,4 +244,5 @@ draft: false
 </table><br>
 
 ## OB/OG
+
 Coming soon...
