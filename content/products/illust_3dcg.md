@@ -6,13 +6,14 @@ draft: false
 ---
 
 <div class="illust-container">
-    <div class="illust-button"><img id="grid-1" onclick="clickedImage('grid-1');" src="/image/illust_kishi_01.png"></div>
-    <div class="illust-button"><img id="grid-2" onclick="clickedImage('grid-2');" src="/image/tsuno_denxchan.png"></div>
-    <div class="illust-button"><img id="grid-3" onclick="clickedImage('grid-3');" src="/image/illust_ramune_00.png"></div>
-    <div class="illust-button"><img id="grid-4" onclick="clickedImage('grid-4');" src="/image/laisa_1.jpg"></div>
-    <div class="illust-button"><img id="grid-5" onclick="clickedImage('grid-5');" src="/image/nanari_1.jpg"></div>
-    <div class="illust-button"><img id="grid-6" onclick="clickedImage('grid-6');" src="/image/laisa_2.jpg"></div>
-    <div class="illust-button"><img id="grid-7" onclick="clickedImage('grid-7');" src="/image/ramune_robo_den.png"></div>
+    <div class="illust-button"><img id="grid-1" onclick="clickedImage('grid-1');" src="/image/illust_kishi_02.png"></div>
+    <div class="illust-button"><img id="grid-2" onclick="clickedImage('grid-2');" src="/image/illust_kishi_01.png"></div>
+    <div class="illust-button"><img id="grid-3" onclick="clickedImage('grid-3');" src="/image/tsuno_denxchan.png"></div>
+    <div class="illust-button"><img id="grid-4" onclick="clickedImage('grid-4');" src="/image/illust_ramune_00.png"></div>
+    <div class="illust-button"><img id="grid-5" onclick="clickedImage('grid-5');" src="/image/laisa_1.jpg"></div>
+    <div class="illust-button"><img id="grid-6" onclick="clickedImage('grid-6');" src="/image/nanari_1.jpg"></div>
+    <div class="illust-button"><img id="grid-7" onclick="clickedImage('grid-7');" src="/image/laisa_2.jpg"></div>
+    <div class="illust-button"><img id="grid-8" onclick="clickedImage('grid-8');" src="/image/ramune_robo_den.png"></div>
 </div>
 
 <div class="popup" id="js-popup">
