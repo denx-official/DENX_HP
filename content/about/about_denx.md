@@ -2,7 +2,7 @@
 title: DENXとは？
 date: 2020-01-15
 image: /image/about_denx.jpg
-draft: true
+draft: false
 ---
 ## 電気情報研究会とは
 
