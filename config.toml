@@ -29,6 +29,7 @@ pluralizeListTitles = false
 
     YouTubeLink = "https://www.youtube.com/embed/S1N913eKvoQ"
     news = [
+      "2022/06/11: 6月総会",
       "2022/05/29: ゲーム制作講座 #2",
       "2022/05/22: ゲーム制作講座 #1",
       "2022/05/14: 5月総会",
