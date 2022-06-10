@@ -26,15 +26,6 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>	
-	<tr>
-		<td class="namae" rowspan="2">Lk</td>
-		<td>自己紹介</td>
-		<td class="honbun">イラスト、DTM制作します。</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</a></td>
-	</tr>
 	
 </table><br>
 
@@ -65,18 +56,9 @@ draft: false
 		<td class="honbun">-</a></td>
 	</tr>
 	<tr>
-		<td class="namae" rowspan="2">しろへび</td>
+		<td class="namae" rowspan="2">SK</td>
 		<td>自己紹介</td>
-		<td class="honbun">Unityとか使ってゲーム制作したい人。</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</a></td>
-	</tr>
-	<tr>
-		<td class="namae" rowspan="2">青木</td>
-		<td>自己紹介</td>
-		<td class="honbun">F#の勉強をしています。</td>
+		<td class="honbun">イラスト制作をしている特撮オタクです。CGも少し勉強しています。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
