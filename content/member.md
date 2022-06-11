@@ -58,7 +58,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">SK</td>
 		<td>自己紹介</td>
-		<td class="honbun">イラスト制作をしている特撮オタクです。CGも少し勉強しています。</td>
+		<td class="honbun">イラスト制作をしている特撮好きです。CGも少し勉強しています。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
