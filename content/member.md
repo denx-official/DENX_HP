@@ -201,7 +201,7 @@ draft: false
 	</tr>
 	<tr>
 		<td>リンク</td>
-		<td>https://github.com/cozysauna</td>
+		<td class="honbun"><a href="https://github.com/cozysauna" target="_blank" rel="noopener">cozysauna(Cozy) - github</a></td>
 	</tr>
 </table><br>
 
