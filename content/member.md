@@ -109,7 +109,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ca.V</td>
 		<td>自己紹介</td>
-		<td class="honbun">"イラストやゲーム制作してます。動画編集とかCG、Webデザインに手を出し始めました。日本の音楽とかゲームが好きです。"</td>
+		<td class="honbun">イラストやゲーム制作してます。動画編集とかCG、Webデザインに手を出し始めました。日本の音楽とかゲームが好きです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
