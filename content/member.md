@@ -64,6 +64,24 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>
+	<tr>
+		<td class="namae" rowspan="2">A.O</td>
+		<td>自己紹介</td>
+		<td class="honbun">しがない絵描きです</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">敦</td>
+		<td>自己紹介</td>
+		<td class="honbun">webサイトや機械学習、ゲーム作成などの分野のプログラミングが好きです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
 	
 </table><br>
 
@@ -120,6 +138,15 @@ draft: false
 		<td>リンク</td>
 		<td>-</td>
 	</tr>
+	<tr>
+		<td class="namae" rowspan="2">ラルフ</td>
+		<td>自己紹介</td>
+		<td class="honbun">機械学習の分野をやってます。趣味は、アニメやラノベ、音楽聴いてます。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
 </table><br>
 <br>
 
@@ -153,6 +180,15 @@ draft: false
 		<td class="namae" rowspan="2">ry</td>
 		<td>自己紹介</td>
 		<td class="honbun">最近はよく日本や海外の機械学習系コンペティションに出ています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td>-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">cozy_sauna</td>
+		<td>自己紹介</td>
+		<td class="honbun">Loving Python, Sauna, Competitive Programming</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
