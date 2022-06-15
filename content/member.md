@@ -20,7 +20,16 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">いしろ</td>
 		<td>自己紹介</td>
-		<td class="honbun">プログラミング初心者です。東方二次創作とかしようと思います。</td>
+		<td class="honbun">ゲーム作ったり、しょうもないプログラム書いたりしてます。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">マチョザキ</td>
+		<td>自己紹介</td>
+		<td class="honbun">ゲーム制作や動画編集に興味あり！</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
