@@ -9,6 +9,124 @@ draft: false
 会員・旧会員の中でホームページに掲載することを了承してくださった方のみ記載しております。\
 <br>
 
+### 2022年度
+<table class="table">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">カゲ</td>
+		<td>自己紹介</td>
+		<td class="honbun">ゲーム制作、イラスト、音楽制作に興味あります。趣味は、カラオケとゲームです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">ジョニー</td>
+		<td>自己紹介</td>
+		<td class="honbun">"趣味:野球観戦、ゲーム、漫画。イラスト初心者ですが頑張ります。"</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">シューナッツ</td>
+		<td>自己紹介</td>
+		<td class="honbun">ゲームが好きで、ゲームのプログラミング目的で入りました。ボカロも好きなので、DTMも始めるかもです！</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">七五三太</td>
+		<td>自己紹介</td>
+		<td class="honbun">やっていることはマイコンを使った電子工作と軽いプログラミングです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">minno</td>
+		<td>自己紹介</td>
+		<td class="honbun">プログラミングや音楽制作、ゲーム制作に興味あります。まだ定まっていません！</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">piti</td>
+		<td>自己紹介</td>
+		<td class="honbun">趣味で3DCGの制作をしています。2Dのイラストにも手を出したいと思っています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://www.pixiv.net/users/43886403" target="_blank" rel="noopener">piti - pixiv</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">みき</td>
+		<td>自己紹介</td>
+		<td class="honbun">音楽制作に興味があります。よろしくお願いします。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">kana</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストや動画編集 音楽制作に興味があります。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">ユウ</td>
+		<td>自己紹介</td>
+		<td class="honbun">プログラミングに興味があります。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">てぃあ</td>
+		<td>自己紹介</td>
+		<td class="honbun">音楽制作の初心者です。今は耳コピをしたり音楽制作について調べたりしているところです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">ca.V</td>
+		<td>自己紹介</td>
+		<td class="honbun">"イラストやゲーム制作してます。動画編集とかCG、Webデザインに手を出し始めました。日本の音楽とかゲームが好きです。"</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">ray</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストやプログラミングに興味があります。よろしくお願いします。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+
+</table><br>
+
 ### 2021年度
 
 <table class="table">
