@@ -153,6 +153,16 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">しょうちゃん</td>
+		<td>自己紹介</td>
+		<td class="honbun">しょうちゃんです！釣りのサービス「釣りテク！」を制作しています！動画編集をめっちゃしています！</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://tsuriteku.com/" target="_blank" rel="noopener">Home - 釣りテク！</a></td>
+	</tr>	
+
 	
 </table><br>
 
@@ -204,6 +214,24 @@ draft: false
 		<td class="namae" rowspan="2">敦</td>
 		<td>自己紹介</td>
 		<td class="honbun">webサイトや機械学習、ゲーム作成などの分野のプログラミングが好きです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">SHUN</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストばかり描いております。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">maki</td>
+		<td>自己紹介</td>
+		<td class="honbun">ただのドッター見習いです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
