@@ -367,33 +367,6 @@ draft: false
 		<td class="naiyou">内容</td>
 	</tr>
 	<tr>
-		<td class="namae" rowspan="2">いっぺー</td>
-		<td>自己紹介</td>
-		<td class="honbun">DTMと音楽関連ソフトの開発で最強を目指しています<br>（目指せない）</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</td>
-	</tr>
-	<tr>
-		<td class="namae" rowspan="2">ホンジョルノ</td>
-		<td>自己紹介</td>
-		<td class="honbun">絵とかCGをやったりやらなかったりしてます</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</td>
-	</tr>
-	<tr>
-		<td class="namae" rowspan="2">おかきょー</td>
-		<td>自己紹介</td>
-		<td class="honbun">Web 開発がチョットできます</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</td>
-	</tr>
-	<tr>
 		<td class="namae" rowspan="2">Laisa</td>
 		<td>自己紹介</td>
 		<td class="honbun">kawaii-絵 を描いています。</td>
@@ -425,4 +398,39 @@ draft: false
 
 ## OB/OG
 
-Coming soon...
+### 2017年度
+
+<table class="table table-condensed">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">いっぺー</td>
+		<td>自己紹介</td>
+		<td class="honbun">DTMと音楽関連ソフトの開発で最強を目指しています<br>（目指せない）</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">ホンジョルノ</td>
+		<td>自己紹介</td>
+		<td class="honbun">絵とかCGをやったりやらなかったりしてます</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">おかきょー</td>
+		<td>自己紹介</td>
+		<td class="honbun">Web 開発がチョットできます</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</td>
+	</tr>
+</table><br>
