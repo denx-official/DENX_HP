@@ -19,7 +19,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">カゲ</td>
 		<td>自己紹介</td>
-		<td class="honbun">ゲーム制作、イラスト、音楽制作に興味あります。趣味は、カラオケとゲームです。</td>
+		<td class="honbun">ゲーム制作、イラスト、音楽制作に興味あります。<br>趣味は、カラオケとゲームです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -28,7 +28,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ジョニー</td>
 		<td>自己紹介</td>
-		<td class="honbun">"趣味:野球観戦、ゲーム、漫画。イラスト初心者ですが頑張ります。"</td>
+		<td class="honbun">趣味:野球観戦、ゲーム、漫画。<br>イラスト初心者ですが頑張ります。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -37,7 +37,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">シューナッツ</td>
 		<td>自己紹介</td>
-		<td class="honbun">ゲームが好きで、ゲームのプログラミング目的で入りました。ボカロも好きなので、DTMも始めるかもです！</td>
+		<td class="honbun">ゲームが好きで、ゲームのプログラミング目的で入りました。<br>ボカロも好きなので、DTMも始めるかもです！</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -55,7 +55,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">minno</td>
 		<td>自己紹介</td>
-		<td class="honbun">プログラミングや音楽制作、ゲーム制作に興味あります。まだ定まっていません！</td>
+		<td class="honbun">プログラミングや音楽制作、ゲーム制作に興味あります。<br>まだ定まっていません！</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -64,7 +64,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">piti</td>
 		<td>自己紹介</td>
-		<td class="honbun">趣味で3DCGの制作をしています。2Dのイラストにも手を出したいと思っています。</td>
+		<td class="honbun">趣味で3DCGの制作をしています。<br>2Dのイラストにも手を出したいと思っています。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -100,7 +100,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">てぃあ</td>
 		<td>自己紹介</td>
-		<td class="honbun">音楽制作の初心者です。今は耳コピをしたり音楽制作について調べたりしているところです。</td>
+		<td class="honbun">音楽制作の初心者です。<br>今は耳コピをしたり音楽制作について調べたりしているところです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -109,7 +109,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ca.V</td>
 		<td>自己紹介</td>
-		<td class="honbun">イラストやゲーム制作してます。動画編集とかCG、Webデザインに手を出し始めました。日本の音楽とかゲームが好きです。</td>
+		<td class="honbun">イラストやゲーム制作してます。<br>動画編集とかCG、Webデザインに手を出し始めました。<br>日本の音楽とかゲームが好きです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -118,7 +118,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ray</td>
 		<td>自己紹介</td>
-		<td class="honbun">イラストやプログラミングに興味があります。よろしくお願いします。</td>
+		<td class="honbun">イラストやプログラミングに興味があります。<br>よろしくお願いします。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -156,7 +156,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">しょうちゃん</td>
 		<td>自己紹介</td>
-		<td class="honbun">しょうちゃんです！釣りのサービス「釣りテク！」を制作しています！動画編集をめっちゃしています！</td>
+		<td class="honbun">しょうちゃんです！<br>釣りのサービス「釣りテク！」を制作しています！<br>動画編集をめっちゃしています！</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -165,7 +165,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ren</td>
 		<td>自己紹介</td>
-		<td class="honbun">イラスト制作やってます。雀魂とか原神とかたまにやってたりします。米8合を水なしで炊いたりしてたまにやらかすことがあるのでその時は大目に見てやってください。</td>
+		<td class="honbun">イラスト制作やってます。<br>雀魂とか原神とかたまにやってたりします。<br>米8合を水なしで炊いたりしてたまにやらかすことがあるのでその時は大目に見てやってください。</td>
 	<tr>
 		<td>リンク</td>
 		<td class="honbun"><a href="https://twitter.com/Tribeta1711" target="_blank" rel="noopener">Twitter</a></td>
@@ -202,7 +202,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">SK</td>
 		<td>自己紹介</td>
-		<td class="honbun">イラスト制作をしている特撮好きです。CGも少し勉強しています。</td>
+		<td class="honbun">イラスト制作をしている特撮好きです。<br>CGも少し勉強しています。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -303,7 +303,7 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ラルフ</td>
 		<td>自己紹介</td>
-		<td class="honbun">機械学習の分野をやってます。趣味は、アニメやラノベ、音楽聴いてます。</td>
+		<td class="honbun">機械学習の分野をやってます。<br>趣味は、アニメやラノベ、音楽聴いてます。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
