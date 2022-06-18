@@ -162,7 +162,14 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun"><a href="https://tsuriteku.com/" target="_blank" rel="noopener">Home - 釣りテク！</a></td>
 	</tr>	
-
+	<tr>
+		<td class="namae" rowspan="2">ren</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラスト制作やってます。雀魂とか原神とかたまにやってたりします。米8合を水なしで炊いたりしてたまにやらかすことがあるのでその時は大目に見てやってください。</td>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://twitter.com/Tribeta1711" target="_blank" rel="noopener">Twitter</a></td>
+	</tr>	
 	
 </table><br>
 
