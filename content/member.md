@@ -191,9 +191,9 @@ draft: false
 		<td class="honbun"><a href="https://kanade-2001.hatenablog.com/" target="_blank" rel="noopener">和奏の雑記帳</a></td>
 	</tr>
 	<tr>
-		<td class="namae" rowspan="2">海月のななり</td>
+		<td class="namae" rowspan="2">てらりこ</td>
 		<td>自己紹介</td>
-		<td class="honbun">イラストを主にいろいろしてます</td>
+		<td class="honbun">最近はPythonと遊んでいます</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
