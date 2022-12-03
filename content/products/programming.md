@@ -7,7 +7,7 @@ draft: false
 ## ゲームをつくる
 
 ↓DENXのゲームづくりに関する成果はこちらにまとめています。  
-<a href="https://denx.hatenablog.jp/entry/2022/11/16/172319" target="_blank" rel="noopener">![](/image/game.jpg)</a>  
+<a href="https://denx.netlify.app/products/game/" target="_blank" rel="noopener">![](/image/game.jpg)</a>  
  ﻿ 
 
 ## 数学の問題を解く
