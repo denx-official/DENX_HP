@@ -7,6 +7,9 @@ draft: false
 ## 2022年度
 
 会報誌 ￥800  
+
+DENXブログにて試し読み記事を公開中です！  
+<a href="https://denx.hatenablog.jp/entry/2022/11/16/172319" target="_blank" rel="noopener">【『FREE ADDRESS 2022』連動】配色の話</a>
  ﻿ 
 クリアファイル ￥400  
  ﻿ 
