@@ -1,6 +1,6 @@
 ---
 title: 会報誌 & グッズ
-date: 2020-01-11
+date: 2022-12-01T05:00:00.000Z
 image: /image/イラスト3.png
 draft: false
 ---
