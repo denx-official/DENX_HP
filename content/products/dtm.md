@@ -7,7 +7,7 @@ draft: false
 
 ## 2022年度
 2022年度はオリジナル楽曲『凍星(いてぼし)』やサンプリング曲を複数制作しました。   
-
+ ﻿ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sal1KL7z3W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  ﻿ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FixV9B7ZS90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ draft: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uMoHZeQ1ANg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  ﻿ 
 
-## 2021年度
+## ～2021年度
 2021年度までの楽曲をプレイリストにまとめました。  
 会員たちの個性豊かな楽曲をお楽しみください。  
 
