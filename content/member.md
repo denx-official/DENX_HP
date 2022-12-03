@@ -312,15 +312,6 @@ draft: false
 		<td class="naiyou">内容</td>
 	</tr>
 	<tr>
-		<td class="namae" rowspan="2">らむーね</td>
-		<td>自己紹介</td>
-		<td class="honbun">ゲーム制作とイラスト描きしてます。</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun"><a href="https://www.pixiv.net/users/31489063" target="_blank" rel="noopener">らむーね - pixiv</a></td>
-	</tr>
-	<tr>
 		<td class="namae" rowspan="2">zakio_10</td>
 		<td>自己紹介</td>
 		<td class="honbun">競技プログラミングと低レイヤに興味があります。</td>
@@ -388,6 +379,26 @@ draft: false
 </table><br>
 
 ## OB/OG
+
+### 2018年度
+
+<table class="table table-condensed">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">らむーね</td>
+		<td>自己紹介</td>
+		<td class="honbun">ゲーム制作とイラスト描きしてます。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://www.pixiv.net/users/31489063" target="_blank" rel="noopener">らむーね - pixiv</a></td>
+	</tr>
+</table><br>
+
 
 ### 2017年度
 
