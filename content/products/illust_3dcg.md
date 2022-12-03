@@ -1,6 +1,6 @@
 ---
 title: イラスト・3DCG
-date: 2020-11-25T20:58:19.447Z
+date: 2022-12-02T08:58:19.447Z
 image: /image/illust.jpg
 draft: false
 ---
