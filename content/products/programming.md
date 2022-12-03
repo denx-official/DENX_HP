@@ -6,7 +6,7 @@ draft: false
 ---
 ## ゲームをつくる
 
-↓DENXのゲームづくりに関する成果はこちらにまとめています。  
+↓DENXのゲームづくりに関する成果はこちらにまとめています。(画像をクリック)  
 <a href="https://denx.netlify.app/products/game/">![](/image/game.jpg)</a>  
  ﻿ 
 
