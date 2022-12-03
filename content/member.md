@@ -97,7 +97,6 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>	
-	
 	<tr>
 		<td class="namae" rowspan="2">ca.V</td>
 		<td>自己紹介</td>
