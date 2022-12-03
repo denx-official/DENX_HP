@@ -97,15 +97,7 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>	
-	<tr>
-		<td class="namae" rowspan="2">てぃあ</td>
-		<td>自己紹介</td>
-		<td class="honbun">音楽制作の初心者です。<br>今は耳コピをしたり音楽制作について調べたりしているところです。</td>
-	</tr>
-	<tr>
-		<td>リンク</td>
-		<td class="honbun">-</a></td>
-	</tr>	
+	
 	<tr>
 		<td class="namae" rowspan="2">ca.V</td>
 		<td>自己紹介</td>
