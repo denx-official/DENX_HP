@@ -5,4 +5,4 @@ image: /image/game.jpg
 draft: false
 ---
 
-coming soon...
+## VRシューティングゲーム
