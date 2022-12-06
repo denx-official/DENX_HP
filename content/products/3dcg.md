@@ -1,6 +1,6 @@
 ---
 title: 3DCG
-date: 2022-12-06T07:10:25.166Z
+date: 2022-12-02T07:10:25.166Z
 image: /image/no_image.jpg
 draft: false
 ---
