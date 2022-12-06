@@ -4,8 +4,7 @@ date: 2022-12-02T07:10:25.166Z
 image: /image/no_image.jpg
 draft: false
 ---
-## 3DCG
-
+ ﻿ 
 会員が制作したCG作品の一部を公開しています。  
 
 <div class="illust-container">
