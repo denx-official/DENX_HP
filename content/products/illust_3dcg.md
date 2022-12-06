@@ -130,3 +130,4 @@ draft: false
   cursor: pointer;
 }
 </style>
+<script type="text/javascript" src="/js/popupImage.js"></script>
