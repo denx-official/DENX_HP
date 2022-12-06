@@ -132,4 +132,3 @@ draft: false
 }
 </style>
 
-<script type="text/javascript" src="/js/popupImage.js"></script>
