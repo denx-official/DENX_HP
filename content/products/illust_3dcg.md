@@ -1,12 +1,12 @@
 ---
-title: イラスト・3DCG
+title: イラスト
 date: 2022-12-02T08:58:19.447Z
 image: /image/illust.jpg
 draft: false
 ---
 ## イラスト
 
-会員が制作したイラストを一部公開しています。  
+会員が制作したイラストの一部を公開しています。  
 
 <div class="illust-container">
     <div class="illust-button"><img id="grid-8" onclick="clickedImage('grid-8');" src="/image/illust_kishi_02.png"></div>
