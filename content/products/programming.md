@@ -1,6 +1,6 @@
 ---
 title: プログラミング
-date: 2022-12-03T07:59:38.714Z
+date: 2022-12-06T07:00:00.000Z
 image: /image/prog.jpg
 draft: false
 ---
