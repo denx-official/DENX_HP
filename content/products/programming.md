@@ -4,7 +4,7 @@ date: 2022-12-06T07:00:00.000Z
 image: /image/prog.jpg
 draft: false
 ---
-## ゲームをつくる
+## ゲーム制作
 
 ↓DENXのゲームづくりに関する成果はこちらにまとめています。(画像をクリック)  
 <a href="https://denx.netlify.app/products/game/">![](/image/game.jpg)</a>  
