@@ -71,11 +71,11 @@ draft: false
 ## 3DCG
 
 <div class="illust-container">
-    <div class="illust-button"><img id="grid-1" onclick="clickedImage('grid-1');" src="/image/VRCG_2022_01.png"></div>
-    <div class="illust-button"><img id="grid-2" onclick="clickedImage('grid-2');" src="/image/VRCG_2022_02.png"></div>
-    <div class="illust-button"><img id="grid-3" onclick="clickedImage('grid-3');" src="/image/VRCG_2022_03.png"></div>
-    <div class="illust-button"><img id="grid-4" onclick="clickedImage('grid-4');" src="/image/VRCG_2022_04.png"></div>
-    <div class="illust-button"><img id="grid-5" onclick="clickedImage('grid-5');" src="/image/VRCG_2022_05.jpg"></div>
+    <div class="illust-button"><img id="grid-1*" onclick="clickedImage('grid-1*');" src="/image/VRcG_2022_01.png"></div>
+    <div class="illust-button"><img id="grid-2*" onclick="clickedImage('grid-2*');" src="/image/VRcG_2022_02.png"></div>
+    <div class="illust-button"><img id="grid-3*" onclick="clickedImage('grid-3*');" src="/image/VRcG_2022_03.png"></div>
+    <div class="illust-button"><img id="grid-4*" onclick="clickedImage('grid-4*');" src="/image/VRcG_2022_04.png"></div>
+    <div class="illust-button"><img id="grid-5*" onclick="clickedImage('grid-5*');" src="/image/VRcG_2022_05.jpg"></div>
 </div>
 
 <div class="popup" id="js-popup">
