@@ -6,7 +6,7 @@ draft: false
 ---
 ## 3DCG
 
-会員が制作したCG作品を一部公開しています。  
+会員が制作したCG作品の一部を公開しています。  
 
 <div class="illust-container">
     <div class="illust-button"><img id="grid-5*" onclick="clickedImage('grid-5*');" src="/image/VRcG_2022_01.png"></div
