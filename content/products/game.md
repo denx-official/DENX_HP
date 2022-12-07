@@ -5,8 +5,8 @@ image: /image/game.jpg
 draft: false
 ---
 ## VRシューティングゲーム
-コントローラーを銃のように見立てて遊ぶことができるVRシューティングゲームを制作しました。  
-大学の施設を模しつつ、階段の上からやってくるモンスターを倒して高スコアを目指します。  
+コントローラーを銃のように見立てて遊ぶことができるVRシューティングゲームを制作しました。  
+大学の施設を模しつつ、階段の上からやってくるモンスターを倒して高スコアを目指します。  
 開発に用いたのはUnity・Blender・Adobe After Effectsです。  
  ﻿ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xE4RdSFtcv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
