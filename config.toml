@@ -29,6 +29,7 @@ pluralizeListTitles = false
 
     YouTubeLink = "https://www.youtube.com/embed/S1N913eKvoQ"
     news = [
+      "2023/05/13: 5月総会" ,
       "2023/05/04: 新入生 オンライン交流会" ,
       "2023/05/04: 3Days開発会 最終日" ,
       "2023/05/02: 3Days開発会 開始日" ,
