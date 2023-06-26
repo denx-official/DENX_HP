@@ -29,7 +29,7 @@ pluralizeListTitles = false
 
     YouTubeLink = "https://www.youtube.com/embed/S1N913eKvoQ"
     news = [
-    　"2023/06/25: 6月ミニハッカソン成果発表" ,
+      "2023/06/25: 6月ミニハッカソン成果発表" ,
       "2023/06/24: 6月ミニハッカソン最終日" ,
       "2023/06/18: 6月ミニハッカソン開始日" ,
       "2023/06/10: 6月総会" ,
