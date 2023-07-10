@@ -9,7 +9,44 @@ draft: false
 会員・旧会員の中でホームページに掲載することを了承してくださった方のみ記載しております。\
 <br>
 
+### 2023年度
+<table class="table">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">Akihisa</td>
+		<td>自己紹介</td>
+		<td class="honbun">プログラミングに励みたいです。よろしくお願いします。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">Hira</td>
+		<td>自己紹介</td>
+		<td class="honbun">2Dでちょっとレトロなゲームが大好きな者です。プログラム、曲、お絵描き、色々と嗜みます。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+ 	<tr>
+		<td class="namae" rowspan="2">Hikaru</td>
+		<td>自己紹介</td>
+		<td class="honbun">DTMに興味があります　ゲームと音楽きくのが趣味です</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+</table><br>
+
 ### 2022年度
+
 <table class="table">
 	<tr>
 		<td class="namae">名前</td>
@@ -20,6 +57,35 @@ draft: false
 		<td class="namae" rowspan="2">カゲ</td>
 		<td>自己紹介</td>
 		<td class="honbun">ゲーム制作、イラスト、音楽制作に興味あります。<br>趣味は、カラオケとゲームです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	 <tr>
+		<td class="namae" rowspan="2">七草</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストやDTMを制作しています。よろしくお願いします。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	 <tr>
+		<td class="namae" rowspan="2">Yusuke</td>
+		<td>自己紹介</td>
+		<td class="honbun">最近はDTMしてます。unityと、競プロに興味があります。
+			<br>スプラなどのSwitchゲームが趣味です。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">ナガキ</td>
+		<td>自己紹介</td>
+		<td class="honbun">現在CやC#を学んでおります。unityも少し触ってます。動画編集も少ししています。
+			<br>趣味はゲームです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -161,6 +227,15 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun"><a href="https://twitter.com/Tribeta1711" target="_blank" rel="noopener">Twitter</a></td>
 	</tr>	
+ 	<tr>
+		<td class="namae" rowspan="2">ギムデゴン</td>
+		<td>自己紹介</td>
+		<td class="honbun">理工学部 電子工学科 3回生</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
 	
 </table><br>
 
@@ -234,7 +309,28 @@ draft: false
 	<tr>
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
+	</tr> 	
+	<tr>
+		<td class="namae" rowspan="2">まさなり</td>
+		<td>自己紹介</td>
+		<td class="honbun">主にpythonで機械学習のプログラムを書くことが多いですが、3DCGや作曲にも興味があります。
+			<br>よろしくお願いいたします。</td>
 	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+ 	<tr>
+		<td class="namae" rowspan="2">なべし</td>
+		<td>自己紹介</td>
+		<td class="honbun">数少ない文学部勢です。
+			<br>主にイラスト制作を行っています(*^^*)
+			<br>個人的な活動としては、PythonのPygameで一からノベルゲーム作りをしています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
 	
 </table><br>
 
