@@ -84,8 +84,16 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ナガキ</td>
 		<td>自己紹介</td>
-		<td class="honbun">現在CやC#を学んでおります。unityも少し触ってます。動画編集も少ししています。
-			<br>趣味はゲームです。</td>
+		<td class="honbun">現在CやC#を学んでおり、unityを少し触ってます。動画編集も少ししています。趣味はゲームです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">KM</td>
+		<td>自己紹介</td>
+		<td class="honbun">Unity・DTMをやってたりやってなかったりします</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
