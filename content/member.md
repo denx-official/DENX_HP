@@ -210,6 +210,15 @@ draft: false
 		<td class="honbun">-</a></td>
 	</tr>	
 	<tr>
+		<td class="namae" rowspan="2">スバ</td>
+		<td>自己紹介</td>
+		<td class="honbun">python勉強してます。趣味:アニメの舞台巡り、テトリス</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
 		<td class="namae" rowspan="2">マチョザキ</td>
 		<td>自己紹介</td>
 		<td class="honbun">ゲーム制作や動画編集に興味あり！</td>
