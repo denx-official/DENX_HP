@@ -29,6 +29,8 @@ pluralizeListTitles = false
 
     YouTubeLink = "https://www.youtube.com/embed/S1N913eKvoQ"
     news = [
+      "2023/11/11: 11月総会" ,
+      "2023/10/28: ハロウィンパーティー" ,
       "2023/10/14: 10月総会" ,
       "2023/10/08: 秋ハッカソン最終日" ,
       "2023/09/25: 秋ハッカソン開始日" ,
@@ -75,7 +77,6 @@ pluralizeListTitles = false
       "2022/12/18: UE5合同勉強会",
       "2022/12/10: 12月総会",
       "2022/11/26: 同志社EVE参加",
-      "2022/11/05: 11月総会",
     ]
 
 [[menu.main]]
