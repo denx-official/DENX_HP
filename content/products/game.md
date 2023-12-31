@@ -4,6 +4,11 @@ date: 2022-12-02T08:24:00.000Z
 image: /image/game.jpg
 draft: false
 ---
+## C103配布 ゲームフォルダ
+コミックマーケット103にて配布させて頂きました、ゲームのリンクでございます。  
+https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3  
+
+
 ## VRシューティングゲーム
 コントローラーを銃のように見立てて遊ぶことができるVRシューティングゲームを制作しました。  
 大学の施設を模しつつ、階段の上からやってくるモンスターを倒して高スコアを目指します。  
