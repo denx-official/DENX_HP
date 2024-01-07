@@ -6,8 +6,7 @@ draft: false
 ---
 ## C103配布 ゲームフォルダ
 コミックマーケット103にて配布させて頂きました、ゲームのリンクでございます。  
-https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3  
-
+https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sharing
 
 ## VRシューティングゲーム
 コントローラーを銃のように見立てて遊ぶことができるVRシューティングゲームを制作しました。  
