@@ -109,5 +109,5 @@ pluralizeListTitles = false
 
 [[menu.icon]]
     url = "https://twitter.com/DENX_JP"
-    name = "twitter"
+    name = "X"
     weight = 2
