@@ -9,6 +9,25 @@ draft: false
 会員の中でホームページに掲載することを了承してくださった方のみ記載しております。\
 <br>
 
+### 2024年度
+<table class="table">
+	<tr>
+		<td class="namae">名前</td>
+		<td class="koumoku">項目</td>
+		<td class="naiyou">内容</td>
+	</tr>
+	<tr>
+		<td class="namae" rowspan="2">Nakano</td>
+		<td>自己紹介</td>
+		<td class="honbun">ゲームプログラミングと3Dモデリングができます。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+
+</table><br>
+
 ### 2023年度
 <table class="table">
 	<tr>
@@ -28,7 +47,8 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">Malin</td>
 		<td>自己紹介</td>
-		<td class="honbun">Pythonで機械学習をしたり、Swiftでアプリを作ったりしています。ゲームは好きだけど作れません。</td>
+		<td class="honbun">Pythonで機械学習をしたり、Swiftでアプリを作ったりしています。<br>
+				ゲームは好きだけど作れません。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -56,7 +76,8 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">カゲ</td>
 		<td>自己紹介</td>
-		<td class="honbun">ゲーム制作、イラスト、音楽制作に興味あります。<br>趣味は、カラオケとゲームです。</td>
+		<td class="honbun">ゲーム制作、イラスト、音楽制作に興味あります。<br>
+				趣味は、カラオケとゲームです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -74,8 +95,8 @@ draft: false
 	 <tr>
 		<td class="namae" rowspan="2">Yusuke</td>
 		<td>自己紹介</td>
-		<td class="honbun">最近はDTMしてます。unityと、競プロに興味があります。
-			<br>スプラなどのSwitchゲームが趣味です。</td>
+		<td class="honbun">最近はDTMしてます。unityと、競プロに興味があります。<br>
+				スプラなどのSwitchゲームが趣味です。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -84,7 +105,8 @@ draft: false
 	<tr>
 		<td class="namae" rowspan="2">ナガキ</td>
 		<td>自己紹介</td>
-		<td class="honbun">現在CやC#を学んでおり、unityを少し触ってます。動画編集も少ししています。趣味はゲームです。</td>
+		<td class="honbun">現在CやC#を学んでおり、unityを少し触ってます。動画編集も少ししています。<br>
+				趣味はゲームです。</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
