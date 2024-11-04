@@ -25,7 +25,26 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>	
-
+	<tr>
+		<td class="namae" rowspan="2">にぼし</td>
+		<td>自己紹介</td>
+		<td class="honbun">イラストと3DCGをがんばってます！
+			サンリオのKIRIMIちゃん.が好きです〜</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">よんぬ</td>
+		<td>自己紹介</td>
+		<td class="honbun">最近はUnityを勉強していますが、イラスト,DTMなどいろいろなことに興味があります。
+			趣味はゲームです。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
 </table><br>
 
 ### 2023年度
@@ -58,6 +77,24 @@ draft: false
 		<td class="namae" rowspan="2">Hikaru</td>
 		<td>自己紹介</td>
 		<td class="honbun">DTMに興味があります　ゲームと音楽きくのが趣味です</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">みーちゃん</td>
+		<td>自己紹介</td>
+		<td class="honbun">カラオケとゲームが好きなオタクです。色んなところに首突っ込んではスタミナ切れを起こしています。</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun"><a href="https://github.com/A-yum1" target="_blank" rel="noopener">github</a></td>
+	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">Java大好き(初心)</td>
+		<td>自己紹介</td>
+		<td class="honbun">web制作してます</td>
 	</tr>
 	<tr>
 		<td>リンク</td>
@@ -121,6 +158,18 @@ draft: false
 		<td>リンク</td>
 		<td class="honbun">-</a></td>
 	</tr>	
+	<tr>
+		<td class="namae" rowspan="2">しぐれ</td>
+		<td>自己紹介</td>
+		<td class="honbun">Pythonの勉強をしてます。
+			競技プログラミングや機械学習に興味があります！！
+			よろしくお願いします！！</td>
+	</tr>
+	<tr>
+		<td>リンク</td>
+		<td class="honbun">-</a></td>
+	</tr>	
+
 </table><br>
 
 ### 2021年度
