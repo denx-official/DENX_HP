@@ -5,8 +5,16 @@ image: /image/dtm.jpg
 draft: false
 ---
 
+## 2024年度
+M3-2024秋に出展しました。   
+アルバム『GEARS 2024』を制作しました。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CYTZz7tHL9c?si=4TtRUCtF2nHdQvRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+オリジナル楽曲『花噺』を制作しました。   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DPzNWfoue-4?si=NHMMNz0Y533hkO9j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## 2022年度
-2022年度はオリジナル楽曲『凍星(いてぼし)』やサンプリング曲を複数制作しました。   
+オリジナル楽曲『凍星(いてぼし)』やサンプリング曲を複数制作しました。   
  ﻿ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sal1KL7z3W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  ﻿ 
