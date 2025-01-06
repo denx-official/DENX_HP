@@ -1,6 +1,6 @@
 ---
 title: DTM
-date: 2022-12-03T15:00:00.000Z
+date: 2025-01-06T23:00:00.000Z
 image: /image/dtm.jpg
 draft: false
 ---
@@ -9,6 +9,7 @@ draft: false
 M3-2024秋に出展しました。   
 アルバム『GEARS 2024』を制作しました。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CYTZz7tHL9c?si=4TtRUCtF2nHdQvRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 オリジナル楽曲『花噺』を制作しました。   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DPzNWfoue-4?si=NHMMNz0Y533hkO9j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
