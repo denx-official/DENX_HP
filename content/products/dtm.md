@@ -1,6 +1,6 @@
 ---
 title: DTM
-date: 2025-01-07
+date: 2025-01-06
 image: /image/dtm.jpg
 draft: false
 ---
