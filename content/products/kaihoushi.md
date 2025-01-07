@@ -8,13 +8,13 @@ draft: false
 
 会報誌（表紙）  
 
-![2024　会報誌　表紙](https://github.com/user-attachments/assets/0d8be6fa-f290-419b-9f14-e572ad704452)  
+![](/image/2024_Kaihoushi.jpg)  
 
 ## 2023年度
 
 会報誌（表紙）  
 
-![2023　会報誌　表紙](https://github.com/user-attachments/assets/4bfacd44-46e1-4454-8da8-984201a86d16)  
+![](/image/2023_Kaihoushi.jpg)  
 
 ## 2022年度
 
