@@ -1,16 +1,27 @@
 ---
 title: ゲーム
-date: 2022-12-02T08:24:00.000Z
+date: 2025-01-05
 image: /image/game.jpg
 draft: false
 ---
-## C105配布 音楽ゲーム「誰思ふ春か_体験版」
+## C105配布 ゲームフォルダ
 コミックマーケット105にて配布させて頂きました、ゲームのリンクでございます。  
-https://drive.google.com/drive/folders/1q9x9at634APlF-Vl-_n57L1t-x3dmrc5
+
+音楽シナリオゲーム「誰思ふ春か_体験版」  
+https://drive.google.com/drive/folders/1q9x9at634APlF-Vl-_n57L1t-x3dmrc5  
+
+![](/image/Game_2024_誰思ふ春か_体験版.png)  
 
 ## C103配布 ゲームフォルダ
 コミックマーケット103にて配布させて頂きました、ゲームのリンクでございます。  
-https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sharing
+https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sharing  
+
+以下の3作品が含まれています。  
+・シューティングゲーム　　「GHOSPOT」  
+・音楽ゲーム　　　　　　　「DENX民達の音楽置場」  
+・タワーディフェンスゲーム「ダイエット☆パラダイス」  
+
+![](/image/Game_2023_Archives.png)  
 
 ## VRシューティングゲーム
 コントローラーを銃のように見立てて遊ぶことができるVRシューティングゲームを制作しました。  
