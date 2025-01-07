@@ -1,6 +1,6 @@
 ---
 title: 会報誌 & グッズ
-date: 2025-01-7
+date: 2025-01-07
 image: /image/イラスト3.png
 draft: false
 ---
