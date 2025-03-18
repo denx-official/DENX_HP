@@ -9,9 +9,9 @@ draft: false
 
 <div class="illust-container">
     <div class="illust-button"><img id="grid-05" onclick="clickedImage('grid-09');" src="/image/3DCG_SoftServeIceCream.jpeg"></div>
-    <div class="illust-button"><img id="grid-05" onclick="clickedImage('grid-08');" src="/image/3DCG_Jelly.png"></div>
-    <div class="illust-button"><img id="grid-05" onclick="clickedImage('grid-07');" src="/image/3DCG_Hairpin.png"></div>
-    <div class="illust-button"><img id="grid-05" onclick="clickedImage('grid-06');" src="/image/3DCG_Chocolate.png"></div>
+    <div class="illust-button"><img id="grid-08" onclick="clickedImage('grid-08');" src="/image/3DCG_Jelly.png"></div>
+    <div class="illust-button"><img id="grid-07" onclick="clickedImage('grid-07');" src="/image/3DCG_Hairpin.png"></div>
+    <div class="illust-button"><img id="grid-06" onclick="clickedImage('grid-06');" src="/image/3DCG_Chocolate.png"></div>
     <div class="illust-button"><img id="grid-05" onclick="clickedImage('grid-05');" src="/image/VRcG_2022_01.png"></div>
     <div class="illust-button"><img id="grid-04" onclick="clickedImage('grid-04');" src="/image/VRcG_2022_02.png"></div>
     <div class="illust-button"><img id="grid-03" onclick="clickedImage('grid-03');" src="/image/VRcG_2022_03.png"></div>
