@@ -8,6 +8,7 @@ draft: false
 会員が制作したCG作品の一部を公開しています。  
 
 <div class="illust-container">
+    <div class="illust-button"><img id="grid-10" onclick="clickedImage('grid-10');" src="/image/3DCG_DENcopter.jpg"></div>
     <div class="illust-button"><img id="grid-09" onclick="clickedImage('grid-09');" src="/image/3DCG_SoftServeIceCream.jpeg"></div>
     <div class="illust-button"><img id="grid-08" onclick="clickedImage('grid-08');" src="/image/3DCG_Jelly.png"></div>
     <div class="illust-button"><img id="grid-07" onclick="clickedImage('grid-07');" src="/image/3DCG_Hairpin.png"></div>
