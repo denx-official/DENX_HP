@@ -7,7 +7,14 @@ draft: false
 
 
 会員が制作したイラストの一部を公開しています。  
-
+<div class="illust-container">
+    <div class="illust-button"><img id="grid-23" onclick="clickedImage('grid-23');" src="/image/Illust_2025_PenguinLove.PNG">
+<div class="illust-container">
+    <div class="illust-button"><img id="grid-22" onclick="clickedImage('grid-22');" src="/image/Illust_2024_ LittleRedRidingHood.PNG">
+<div class="illust-container">
+    <div class="illust-button"><img id="grid-21" onclick="clickedImage('grid-21');" src="/image/Illust_2025_DENXchan.jpg">
+<div class="illust-container">
+    <div class="illust-button"><img id="grid-20" onclick="clickedImage('grid-20');" src="/image/Illust_2025_DENXwriting.PNG"></div>
 <div class="illust-container">
     <div class="illust-button"><img id="grid-19" onclick="clickedImage('grid-19');" src="/image/Illust_2024_IllustratorDENXchan.png"></div>
     <div class="illust-button"><img id="grid-18" onclick="clickedImage('grid-18');" src="/image/Illust_2024_KimonoDENXchan.png"></div>
