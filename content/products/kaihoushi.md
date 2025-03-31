@@ -10,6 +10,10 @@ draft: false
 
 ![](/image/2024_Kaihoushi.jpg)  
 
+写真集（表紙）  
+
+![](/image/2024_PhotoBook.jpg)  
+
 ## 2023年度
 
 会報誌（表紙）  
