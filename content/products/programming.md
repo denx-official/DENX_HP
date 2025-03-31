@@ -8,7 +8,11 @@ draft: false
 
 ↓DENXのゲームづくりに関する成果はこちらにまとめています。(画像をクリック)  
 <a href="https://denx.netlify.app/products/game/">![](/image/game.jpg)</a>  
- ﻿ 
+
+## 2024年度  
+
+マッチ棒パズルの自動生成に挑戦しました。  
+![](/image/Programming_2024_MatchstickQuiz.png)  
 
 ## 数学の問題を解く
 
