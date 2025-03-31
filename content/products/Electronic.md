@@ -1,7 +1,7 @@
 ---
-title: その他
+title: 電子工作
 date: 2020-01-10
-image: /image/no_image.jpg
+image: /image/Electronic_2024_GunController.jpg
 draft: false
 ---
 ## 2024年度
