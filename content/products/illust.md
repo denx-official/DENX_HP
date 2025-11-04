@@ -8,19 +8,18 @@ draft: false
 
 会員が制作したイラストの一部を公開しています。  
 <div class="illust-container">
-    <div class="illust-button"><img id="grid-23" onclick="clickedImage('grid-23');" src="/image/Illust_2025_PenguinLove.PNG"></div>
-    <div class="illust-button"><img id="grid-22" onclick="clickedImage('grid-22');" src="/image/Illust_2024_ LittleRedRidingHood.PNG"></div>
-    <div class="illust-button"><img id="grid-21" onclick="clickedImage('grid-21');" src="/image/Illust_2025_DENXchan.jpg"></div>
-    <div class="illust-button"><img id="grid-20" onclick="clickedImage('grid-20');" src="/image/Illust_2025_DENXwriting.PNG"></div>
-    <div class="illust-button"><img id="grid-19" onclick="clickedImage('grid-19');" src="/image/Illust_2024_IllustratorDENXchan.png"></div>
-    <div class="illust-button"><img id="grid-18" onclick="clickedImage('grid-18');" src="/image/Illust_2024_KimonoDENXchan.png"></div>
-    <div class="illust-button"><img id="grid-17" onclick="clickedImage('grid-17');" src="/image/Illust_2024_FlowerDENXchan.png"></div>
-    <div class="illust-button"><img id="grid-16" onclick="clickedImage('grid-16');" src="/image/Illust_2024_SmartphoneGirl.jpg"></div>
-    <div class="illust-button"><img id="grid-15" onclick="clickedImage('grid-15');" src="/image/Illust_2024_SheepGirl.jpg"></div>
-    <div class="illust-button"><img id="grid-14" onclick="clickedImage('grid-14');" src="/image/Illust_2023_PurpleGirl.jpg"></div>
-    <div class="illust-button"><img id="grid-13" onclick="clickedImage('grid-13');" src="/image/Illust_2023_Girl.jpg"></div>
-    <div class="illust-button"><img id="grid-12" onclick="clickedImage('grid-12');" src="/image/Illust_2023_PinkGirl.jpg"></div>
-    <div class="illust-button"><img id="grid-11" onclick="clickedImage('grid-11');" src="/image/Illust_2023_BlackGirl.jpg"></div>
+    <div class="illust-button"><img id="grid-22" onclick="clickedImage('grid-22');" src="/image/Illust_2025_PenguinLove.PNG"></div>
+    <div class="illust-button"><img id="grid-21" onclick="clickedImage('grid-21');" src="/image/Illust_2024_ LittleRedRidingHood.PNG"></div>
+    <div class="illust-button"><img id="grid-20" onclick="clickedImage('grid-20');" src="/image/Illust_2025_DENXchan.jpg"></div>
+    <div class="illust-button"><img id="grid-19" onclick="clickedImage('grid-19');" src="/image/Illust_2025_DENXwriting.PNG"></div>
+    <div class="illust-button"><img id="grid-18" onclick="clickedImage('grid-18');" src="/image/Illust_2024_IllustratorDENXchan.png"></div>
+    <div class="illust-button"><img id="grid-17" onclick="clickedImage('grid-17');" src="/image/Illust_2024_KimonoDENXchan.png"></div>
+    <div class="illust-button"><img id="grid-16" onclick="clickedImage('grid-16');" src="/image/Illust_2024_FlowerDENXchan.png"></div>
+    <div class="illust-button"><img id="grid-15" onclick="clickedImage('grid-15');" src="/image/Illust_2024_SmartphoneGirl.jpg"></div>
+    <div class="illust-button"><img id="grid-14" onclick="clickedImage('grid-14');" src="/image/Illust_2024_SheepGirl.jpg"></div>
+    <div class="illust-button"><img id="grid-13" onclick="clickedImage('grid-13');" src="/image/Illust_2023_PurpleGirl.jpg"></div>
+    <div class="illust-button"><img id="grid-12" onclick="clickedImage('grid-12');" src="/image/Illust_2023_Girl.jpg"></div>
+    <div class="illust-button"><img id="grid-11" onclick="clickedImage('grid-11');" src="/image/Illust_2023_PinkGirl.jpg"></div>
     <div class="illust-button"><img id="grid-10" onclick="clickedImage('grid-10');" src="/image/Illust_2023_FireGirl.jpg"></div>
     <div class="illust-button"><img id="grid-09" onclick="clickedImage('grid-09');" src="/image/Illust_2023_DENXchan.png"></div>
     <div class="illust-button"><img id="grid-08" onclick="clickedImage('grid-08');" src="/image/illust_kishi_02.png"></div>
@@ -83,3 +82,4 @@ draft: false
 </style>
 
 <script type="text/javascript" src="/js/popupImage.js"></script>
+
