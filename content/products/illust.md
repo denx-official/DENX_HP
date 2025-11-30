@@ -8,6 +8,7 @@ draft: false
 
 会員が制作したイラストの一部を公開しています。  
 <div class="illust-container">
+    <div class="illust-button"><img id="grid-23" onclick="clickedImage('grid-23');" src="/image/Illust_2025_Clover.PNG"></div>
     <div class="illust-button"><img id="grid-22" onclick="clickedImage('grid-22');" src="/image/Illust_2025_PenguinLove.PNG"></div>
     <div class="illust-button"><img id="grid-21" onclick="clickedImage('grid-21');" src="/image/Illust_2024_ LittleRedRidingHood.PNG"></div>
     <div class="illust-button"><img id="grid-20" onclick="clickedImage('grid-20');" src="/image/Illust_2025_DENXchan.jpg"></div>
@@ -82,5 +83,6 @@ draft: false
 </style>
 
 <script type="text/javascript" src="/js/popupImage.js"></script>
+
 
 
