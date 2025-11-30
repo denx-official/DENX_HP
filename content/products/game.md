@@ -6,7 +6,26 @@ draft: false
 ---
 
 ## 2025年度  
-「」
+「雑巾がけレース」  
+長〜い廊下を雑巾がけで駆け抜けよう。  
+障害物を避けつつ、汚れを落とすとポイントになります。  
+バランスWiiボードを使って左右の移動を、Joyconを足に着けて駆ける動作を検知する仕組みです。  
+
+![](/image/Game_2025_ZoukingakeRace.heic)  
+
+
+「Water Pool Soccer」  
+壁に映し出されたボールを弾いて、相手のゴールに飛ばそう。  
+手を検知するのにLiDARセンサを使用しました。  
+
+![](/image/Game_2025_WaterPool.JPG)  
+
+
+「VRクッキングゲーム」  
+フライパンでお肉を焼きます。  
+できたステーキは配膳ロボットに乗せてお客さんまで届けよう。  
+
+![](/image/Game_2025_Cooking.HEIC)  
 
 
 「ダイエット☆パラダイス」  
@@ -46,4 +65,5 @@ https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sha
   
 
 ![](/image/vr_eve.jpg)  
+
 
