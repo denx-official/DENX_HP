@@ -4,6 +4,17 @@ date: 2025-01-05
 image: /image/game.jpg
 draft: false
 ---
+
+## 2025年度  
+「」
+
+
+「ダイエット☆パラダイス」  
+迫り来るケーキの甘い誘惑から女の子を守るタワーディフェンスゲームです。  
+リアルでダンベルを持ち上げてパワーをためます。  
+
+![](/image/Game_2025_DietParadise.JPG)  
+
 ## C105配布 ゲームフォルダ
 コミックマーケット105にて配布させて頂きました、ゲームのリンクでございます。  
 
@@ -23,7 +34,8 @@ https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sha
 
 ![](/image/Game_2023_Archives.png)  
 
-## VRシューティングゲーム
+## 2022年度  
+「VRシューティングゲーム」  
 コントローラーを銃のように見立てて遊ぶことができるVRシューティングゲームを制作しました。  
 大学の施設を模しつつ、階段の上からやってくるモンスターを倒して高スコアを目指します。  
 開発に用いたのはUnity・Blender・Adobe After Effectsです。  
@@ -34,3 +46,4 @@ https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sha
   
 
 ![](/image/vr_eve.jpg)  
+
