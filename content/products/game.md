@@ -12,27 +12,28 @@ draft: false
 バランスWiiボードを使って左右の移動を、Joyconを足に着けて駆ける動作を検知する仕組みです。  
 
 ![](/image/Game_2025_ZoukingakeRace.heic)  
-
+  
 
 「Water Pool Soccer」  
 壁に映し出されたボールを弾いて、相手のゴールに飛ばそう。  
 手を検知するのにLiDARセンサを使用しました。  
 
 ![](/image/Game_2025_WaterPool.JPG)  
-
+  
 
 「VRクッキングゲーム」  
 フライパンでお肉を焼きます。  
 できたステーキは配膳ロボットに乗せてお客さんまで届けよう。  
 
 ![](/image/Game_2025_Cooking.HEIC)  
-
+  
 
 「ダイエット☆パラダイス」  
 迫り来るケーキの甘い誘惑から女の子を守るタワーディフェンスゲームです。  
 リアルでダンベルを持ち上げてパワーをためます。  
 
 ![](/image/Game_2025_DietParadise.JPG)  
+  
 
 ## C105配布 ゲームフォルダ
 コミックマーケット105にて配布させて頂きました、ゲームのリンクでございます。  
@@ -41,6 +42,7 @@ draft: false
 https://drive.google.com/drive/folders/1q9x9at634APlF-Vl-_n57L1t-x3dmrc5  
 
 ![](/image/Game_2024_誰思ふ春か_体験版.png)  
+  
 
 ## C103配布 ゲームフォルダ
 コミックマーケット103にて配布させて頂きました、ゲームのリンクでございます。  
@@ -52,6 +54,7 @@ https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sha
 ・タワーディフェンスゲーム「ダイエット☆パラダイス」  
 
 ![](/image/Game_2023_Archives.png)  
+  
 
 ## 2022年度  
 「VRシューティングゲーム」  
@@ -65,5 +68,6 @@ https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sha
   
 
 ![](/image/vr_eve.jpg)  
+
 
 
