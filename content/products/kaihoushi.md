@@ -4,6 +4,17 @@ date: 2025-01-07
 image: /image/イラスト3.png
 draft: false
 ---
+
+## 2025年度
+
+会報誌（表紙）  
+
+![](/image/2025_Kaihoushi.jpg)  
+
+写真集（表紙）  
+
+![](/image/2025_PhotoBook.jpg)  
+
 ## 2024年度
 
 会報誌（表紙）  
