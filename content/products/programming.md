@@ -10,6 +10,12 @@ draft: false
 <a href="https://denx.netlify.app/products/game/">![](/image/game.jpg)</a>  
 
 ## 2025年度  
+
+大人気ゲーム「Minecraft」でコンピュータを制作しました。  
+![](/image/Programming_2025_MinecraftComputer.PNG)  
+こちらはコンピュータの動きをシミュレーションするエミュレータです↓  
+![](/image/Programming_2025_Emulator.heif)  
+
 「Falling Sand Simulation」を制作しました。  
 ![](/image/Programming_2025_FallingSand.png)  
 
