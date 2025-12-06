@@ -1,6 +1,6 @@
 ---
 title: 3DCG
-date: 2022-12-02T07:10:25.166Z
+date: 2025-12-01T07:10:25.166Z
 image: /image/3dcg.png
 draft: false
 ---
@@ -70,3 +70,4 @@ draft: false
 }
 </style>
 <script type="text/javascript" src="/js/popupImage.js"></script>
+
