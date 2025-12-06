@@ -1,6 +1,6 @@
 ---
 title: ゲーム
-date: 2025-01-05
+date: 2025-12-05
 image: /image/game.jpg
 draft: false
 ---
@@ -68,6 +68,7 @@ https://drive.google.com/drive/folders/1CEYGMqDg4WacsjewPDttgna7PrGe8wK3?usp=sha
   
 
 ![](/image/vr_eve.jpg)  
+
 
 
 
